@@ -1,5 +1,7 @@
 # Car Comparison
 
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/5b55b6a8-c629-405f-932a-7f72b29a0214" />
+
 
 Program in C for the UOC course Fundamentals of Programming. It reads the data of two cars from two text files and prints which one is better.
 
